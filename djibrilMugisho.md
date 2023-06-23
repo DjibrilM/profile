@@ -8,7 +8,8 @@
 - 👁️ pronounce: he/him
 - 😅 fun fact: I am a gamer 
 
-<hr>
+<hr />
+
 #### ✉️ Contact:
 
 <a href="mailto:mugishodjibril7@gmail.com">
@@ -51,6 +52,7 @@
  </table>
 </div>
 <hr />
+
 ### 🏆GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=DjibrilM&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
